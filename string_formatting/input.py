@@ -1,3 +1,3 @@
 from string_formatting.function import *
 
-print(print_formatted(6))
+print(print_formatted(2))

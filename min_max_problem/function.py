@@ -5,6 +5,6 @@ def min_max_2d(arr):
     return np.max(min_values)
 
 
-n, m = map(int, input("Enter dimensions (n m): ").split())
-arr = [list(map(int, input().split())) for _ in range(n)]
+#n, m = map(int, input("Enter dimensions (n m): ").split())
+#arr = [list(map(int, input().split())) for _ in range(n)]
 

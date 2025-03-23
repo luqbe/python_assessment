@@ -1,3 +1,4 @@
 from min_max_problem.function import *
-
-print("Result:", min_max_2d(arr))
+matrix = [[4, 3], [8, 7], [2, 7], [6, 2], [4, 1]]
+output = min_max_2d(matrix)
+print(output)
