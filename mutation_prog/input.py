@@ -1,2 +1,2 @@
-from mutation_prog.funtion import mutation
-print(mutation,("welcome",4,"n"))
+from mutation_prog.funtion import *
+print(mutation("welcome", 4, "n"))
